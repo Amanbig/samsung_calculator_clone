@@ -1,0 +1,5 @@
+package com.example.calculator_new
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
