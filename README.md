@@ -3,8 +3,8 @@
 Calculator App is a modern and versatile calculator built with Flutter, designed to handle both basic and advanced mathematical operations. The app features a user-friendly interface with support for scientific functions, power operations, and special constants.
 
 <div align="center">
-  <img src="https://github.com/Amanbig/calculator_app/blob/main/image2.png" alt="Home Screen" width="200"/>
-  <img src="https://github.com/Amanbig/calculator_app/blob/main/image1.png" alt="Landscape Mode" width="200"/>
+  <img src="https://github.com/Amanbig/samsung_calculator_clone/blob/main/images/image2.png" alt="Home Screen" width="200"/>
+  <img src="https://github.com/Amanbig/samsung_calculator_clone/blob/main/images/image1.png" alt="Landscape Mode" width="200"/>
 </div>
 
 ## Features
